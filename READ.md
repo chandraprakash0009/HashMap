@@ -32,7 +32,7 @@ Constraints:
 
 ### JAVA CODE 
 
-class Solution {  
+```class Solution {  
     public int maximumSum(int[] nums) {  
         ### // MAP STORE THE SUM OF THE DIGIT OF NUMBER AS KEY AND NUMBER AS VAL;   
         HashMap<Integer,Integer> map = new HashMap<>();   
@@ -57,4 +57,4 @@ class Solution {
         }  
         return max;  
     }  
-}  
+}  ```
